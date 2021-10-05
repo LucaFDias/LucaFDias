@@ -14,8 +14,6 @@
   
 📚 i'm studing typescript
   
-📧 Contact me: lucasferndias@gmail.com
-  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaFDias&show_icons=true&theme=dracula)
 ### Technology i use
 <div style="display: inline_block" ><br>
