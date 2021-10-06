@@ -4,8 +4,6 @@
   </a>
   <a href="https://www.instagram.com/balucasbeatz/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25">
   </a>
-  <a href="https://mail.google.com/mail/u/lucasferndias@gmail.com/#inbox/153d2095719946b"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">
-  </a>
 </div>
 
 
