@@ -4,15 +4,17 @@
   </a>
   <a href="https://www.instagram.com/balucasbeatz/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25">
   </a>
-  <a href="lucasferndias@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">
+  <a href="https://mail.google.com/mail/u/?authuser=lucasferndias@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">
   </a>
 </div>
 
 
 ### Hi!! My name is Lucas 🤙🏼
-<p>👨🏽‍💻 Currently working with front-end</p>
-<p>📚 I'm studing javascript</p>
-<p>📩 Contact me: lucasferndias@gmail.com</p>
+👨🏽‍💻 Currently working with front-end
+
+  📚 I'm studing javascript
+  
+📩 Contact me: lucasferndias@gmail.com
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaFDias&show_icons=true&theme=dracula)
 ### Technology i use
