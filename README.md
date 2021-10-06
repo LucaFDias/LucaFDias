@@ -10,9 +10,9 @@
 
 
 ### Hi!! My name is Lucas 🤙🏼
-👨🏽‍💻 Currently working with front-end
-  
-📚 i'm studing javascript
+<p>👨🏽‍💻 Currently working with front-end</p>
+<p>📚 I'm studing javascript</p>
+<p>📩 Contact me: lucasferndias@gmail.com</p>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaFDias&show_icons=true&theme=dracula)
 ### Technology i use
