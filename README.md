@@ -15,7 +15,8 @@
 📩 Contact me: lucasferndias@gmail.com
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaFDias&show_icons=true&theme=dracula)
-🛠️ Tech Stack
+  <br/><br/>
+  <h1>🛠️ Tech Stack</h1>
 <div style="display: inline_block" ><br>
   <img align-top="center" alt="lucas-vscode" height="30" width="30" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png"/>
   <!--<img align="center" alt="lucas-angularjs" height="30" width="30" src="https://img.icons8.com/color/144/000000/angularjs.png"/>-->
