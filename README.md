@@ -7,7 +7,7 @@
 </div>
 
 
-### Hi!! My name is Lucas 🤙🏼
+### Olá, me chamo Lucas 🤙🏼
 👨🏽‍💻 Currently working with front-end
 
   📚 I'm studing javascript
