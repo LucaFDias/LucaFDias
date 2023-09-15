@@ -10,7 +10,7 @@
 <h1> Olá, me chamo Lucas <img src="https://raw.githubusercontent.com/kaueMarques/KaueMarques/master/hi.gif" width="30px"></h1>
 👨🏽‍💻 Currently working with front-end
 
-  📚 I'm studing javascript
+  📚 I'm software engineer
   
 📩 Contact me: lucasferndias@gmail.com
   
