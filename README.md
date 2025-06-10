@@ -8,11 +8,11 @@
 
 
 <h1> Olá, me chamo Lucas <img src="https://raw.githubusercontent.com/kaueMarques/KaueMarques/master/hi.gif" width="30px"></h1>
-👨🏽‍💻 Currently working with front-end
+👨🏽‍💻 Currently working with back-end
 
-  📚 I'm software engineer
+  Software engineer
   
-📩 Contact me: lucasferndias@gmail.com
+📩 Contact me: lucasfdiasdev@gmail.com
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaFDias&show_icons=true&theme=dracula)
   <br/><br/>
